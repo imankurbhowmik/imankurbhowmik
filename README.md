@@ -2,7 +2,7 @@
 
 Hi there 👋 I am Ankur Bhowmik, 2026 Undergrad from NIT Agartala. My passion for software engineering propels me to excel in Web Development & DSA.
 With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
-- 🌱 I’m currently learning React JS and DSA in JAVA
+- 🌱 I’m currently learning React JS and DSA in JAVA .
 - 🌱 I’m currently working on Personal Projects .
 
 
