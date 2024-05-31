@@ -1,19 +1,26 @@
-## Hi there 👋 I am Ankur
+### 💫 About Me
 
-<!--
-**imankurbhowmik/imankurbhowmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I am Ankur Bhowmik, 2026 Undergrad from NIT Agartala. My passion for software engineering propels me to excel in Web Development & DSA
+With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
+- 🌱 I’m currently learning React JS and DSA in JAVA
+- 🌱 I’m currently working on Personal Projects .
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### 🌐 Socials
+
+![Twitter](https://img.shields.io/badge/-X-F7DF1E?style=flat&logo=x&logoColor=#000000)
+
+
+
+
+
+<!-- - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 
 ### Tech Stack
