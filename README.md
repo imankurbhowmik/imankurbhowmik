@@ -24,12 +24,12 @@ With a passion for learning, I surpass challenges and am committed to refining m
 - ⚡ Fun fact: ... -->
 
 
-### Tech Stack
+### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-F7DF1E?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 [![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=imankurbhowmik)](https://github.com/imankurbhowmik/github-readme-stats)
