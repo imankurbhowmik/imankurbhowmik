@@ -8,8 +8,8 @@ With a passion for learning, I surpass challenges and am committed to refining m
 
 ### 🌐 Socials
 
-![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)
-![Twitter](https://img.shields.io/badge/-Twitter-F7DF1E?style=flat&logo=x&logoColor=black)
+![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)(https://x.com/iamankurbhowmik)
+![Twitter](https://img.shields.io/badge/-Linked In-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 
 
