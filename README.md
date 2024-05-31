@@ -8,7 +8,7 @@ With a passion for learning, I surpass challenges and am committed to refining m
 
 ### 🌐 Socials
 
-![Twitter](https://img.shields.io/badge/-X-#000000?style=flat&logo=x&logoColor=#000000)
+![Twitter](https://img.shields.io/badge/-X-F7DF1E?style=flat&logo=x&logoColor=black)
 
 
 
