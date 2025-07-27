@@ -5,7 +5,7 @@
 
 I’m passionate about building impactful, production-ready applications and solving real-world problems using **clean architecture** and **efficient code**. I strive to continuously grow through challenges and learning.
 
-## 🚀 Projects I've Built & Deployed
+## 🚀 Building (deployed)
 
 - 🧑‍🤝‍🧑 [**Unmasked**](https://www.unmasked.online) – A social platform supporting:
   - Anonymous or named posts  
